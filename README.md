@@ -46,6 +46,7 @@ Ce projet a pour objectif d’acquérir des compétences pratiques en :
 - [📖 Installation de NFS dans Linux Ubuntu](https://ubuntu.com/server/docs/service-nfs) - Ubuntu Server documentation
 - [🏗 Architecture de NFS](https://www.quobyte.com/network-file-system/) - Quobyte
 - [💬 Communication dans le protocole NFS](https://www.ninjaone.com/blog/network-file-system-nfs/) - NinjaOne
+- [ansible playbooks](https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html) -Ansible
 
 ## 📌 Instructions d'Installation
 1. **Cloner le dépôt** :
